@@ -8,11 +8,11 @@ downloaded programmatically using python then the content were stored in a text 
 dataset which is needed to provide additional information on the tweets such as its number of 
 retweets and number of favorites (Likes) was gotten from Twitter API using Tweepy.
 The datasets in this project has gone through the following steps:
-Step 1: Gathering data
-Step 2: Assessing data
-Step 3: Cleaning data
-Step 4: Storing data
-Step 5: Analyzing, and visualizing data
-Step 6: Reporting
+- Step 1: Gathering data
+- Step 2: Assessing data
+- Step 3: Cleaning data
+- Step 4: Storing data
+- Step 5: Analyzing, and visualizing data
+- Step 6: Reporting
 
 Tableau Vizualization: https://public.tableau.com/app/profile/okonkwo.malcom.chukwuebuka/viz/WeRateDogsTwitterAnalysis/Dashboard1?publish=yes
