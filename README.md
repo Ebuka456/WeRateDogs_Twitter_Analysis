@@ -16,3 +16,5 @@ The datasets in this project has gone through the following steps:
 - Step 6: Reporting
 
 Tableau Vizualization: https://public.tableau.com/app/profile/okonkwo.malcom.chukwuebuka/viz/WeRateDogsTwitterAnalysis/Dashboard1?publish=yes
+
+![](https://github.com/Ebuka456/WeRateDogs_Twitter_Analysis/blob/main/Dashboard%20Updated.png)
